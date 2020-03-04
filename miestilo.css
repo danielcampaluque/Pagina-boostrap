@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+}
+#wrapper{
+    background-color:white;
+    height: 500px;
+}
+
+footer {background-color:rgb(0,0,0);;
+        color: white;
+         font-size: 0.9em;
+         text-align: center;
+         font-weight: bold;
+         padding: 10px;}
+
+#progress{
+   margin:100px; }
+
+#boton{position:center;}
